@@ -1,8 +1,8 @@
-# dev22-Tiefer_Blick_in_das_Typsystem_von_TypeScript
+# Tiefer Blick in das Typsystem von TypeScript
 
 Quellcode zum Artikel von Nils Hartmann
 
-iX-Developer-Sonderheft __Moderne Programmiersprachen__, 2022
+iX-Developer-Sonderheft __Programmiersprachen – Next Generation__, 2022
 
 # iX-tract
 
